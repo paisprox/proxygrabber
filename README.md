@@ -10,7 +10,7 @@ originally made with php but changed to a more powerful python language
 
 install dependencies :
 
-    pip install -r require.txt
+    pip3 install -r require.txt
 
 run :
 
